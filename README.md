@@ -46,8 +46,7 @@
 
 ### **📌 My Latest Projects**
 🚀 **MERN Stack E-commerce Platform** – A full-fledged e-commerce website with cart & payment integration.  
-🔍 **Attendance Management System (MERN)** – Automating attendance tracking with MongoDB & React.  
-📊 **Portfolio Website (React + Bootstrap)** – A dynamic portfolio to showcase my skills and work.  
+🔍 **Attendance Management System (MERN)** – Automating attendance tracking with MongoDB & React.   
 
 ---
 
