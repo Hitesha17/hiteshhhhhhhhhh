@@ -12,7 +12,7 @@
 - 💡 **Always learning** → Currently mastering **MERN Stack & Spring Boot**  
 - 💬 Ask me about **Java, React, MongoDB, Express, Node.js, APIs**  
 - 🎯 **Goal:** To become a **pro full-stack developer & software architect**  
-- ⚡ **Fun Fact:** I love solving puzzles, debugging, and **spicy food! 🌶️**  
+- ⚡ **Fun Fact:** I love solving puzzles, debugging, and **spicy food!! 🌶️**  
 
 ---
 
